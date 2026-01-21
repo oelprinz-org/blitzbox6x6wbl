@@ -70,17 +70,14 @@ Bosch numbers beginning with **0 258 007** are *LSU 4.2* probes and will not fit
 
 <p align="center">
   <br/>
-  <img src="hardware/Rev0.0.1/2022-09-22-Board-Blitzbox-V0.1.3_top.png" width="710" alt="Board-Blitzbox-V0.1.3_top"><br/>
-  <img src="hardware/Rev0.0.1/2022-09-22-Board-Blitzbox-V0.1.3_bottom.png" width="710" alt="Board-Blitzbox-V0.1.3_bottom"><br/>
-  <img src="hardware/Rev0.0.1/2023-05-15-Board-Blitzbox-V0.1.9.png" width="710" alt="Board-Blitzbox-V0.1.8"><br/>
   <img src="hardware/Rev0.0.1/top.png" width="350" title="top">
   <img src="hardware/Rev0.0.1/bottom.png" width="350" alt="bottom"><br/>
-  <img src="hardware/Rev0.0.1/internal_plane1.png" width="350" title="Internal Plane 1">
-  <img src="hardware/Rev0.0.1/internal_plane2.png" width="350" title="Internal Plane 2">
-  <img src="hardware/Rev0.0.1/top_layer.png" width="350" title="top_layer">
-  <img src="hardware/Rev0.0.1/bottom_layer.png" width="350" alt="bottom_layer">
-  <img src="hardware/Rev0.0.1/assembly_solderside_V0.1.9.png" width="710" alt="assembly_solderside"><br/>
-  <img src="hardware/Rev0.0.1/assembly_connectorside_V0.1.9.png" width="710" alt="assembly_connectorside"><br/>
+  <img src="hardware/Rev0.0.1/internalplane1.png" width="350" title="Internal Plane 1">
+  <img src="hardware/Rev0.0.1/internalplane2.png" width="350" title="Internal Plane 2">
+  <img src="hardware/Rev0.0.1/top_ayer.png" width="350" title="top_layer">
+  <img src="hardware/Rev0.0.1/bottomlayer.png" width="350" alt="bottom_layer">
+  <img src="hardware/Rev0.0.1/assemblysolderside_V0.1.9.png" width="710" alt="assembly_solderside"><br/>
+  <img src="hardware/Rev0.0.1/assemblyconnectorside_V0.1.9.png" width="710" alt="assembly_connectorside"><br/>
 </p>
 <br/>
 <p align="center">
