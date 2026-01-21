@@ -30,13 +30,6 @@ Quick link to Rev0.0.1 schematic: https://github.com/oelprinz-org/blitzbox6x6wbl
 
 
 
-### Bosch CJ125 (LQFP32 package) part numbers
-
-|Bosch part number|
-|:----------------|
-|30615|
-|40103|
-|30522|
 
 ### Suitable Bosch lambda probes
 
