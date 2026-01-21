@@ -17,7 +17,6 @@ supports 6 cylinder full sequential<br/>
 1 fuel pump out<br/>
 2 idle valve out<br/>
 1 tacho out (5/12V)<br/>
-1 fan out<br/>
 
 USB-C programming interface onboard<br/>
 Wireless Tunerstudio connection WIFI/BT via ESP32-C5<br/>
